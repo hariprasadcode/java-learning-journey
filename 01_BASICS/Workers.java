@@ -1,3 +1,4 @@
+// creating 2 different objects inside a same class and reinitializing the values only for 2nd object
 class Workers
 {
       int id=101;
@@ -27,4 +28,5 @@ class Workers
 
  
                  }
+
 }

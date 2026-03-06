@@ -42,3 +42,4 @@ class CalculatorLogic {
 		return mod;
 	}
 }
+

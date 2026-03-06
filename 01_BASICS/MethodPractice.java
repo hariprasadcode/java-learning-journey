@@ -1,6 +1,6 @@
 package com;
 
-public class Practice {
+public class MethodPractice {
 
 	// without argument without return statement
 	public void WelcomeMessage() {
@@ -45,3 +45,4 @@ public class Practice {
 	}
 
 }
+

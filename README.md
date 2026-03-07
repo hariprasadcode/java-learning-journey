@@ -1,4 +1,4 @@
-#####  Java Full Stack Developer Journey  #####
+##  Java Full Stack Developer Journey  
 
 > "Coding my path from curiosity to mastery — one program at a time."
 

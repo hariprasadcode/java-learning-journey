@@ -1,34 +1,15 @@
-/*Task 1 – Student Information System
+/*
+Task 1: Student Information System
 
-Use variables, object creation, and methods
+Concepts Used:
+- Class and Object Creation
+- Variables
+- Methods (All 4 Types)
 
-
-Create these variables:
-Student Name
-USN
-Branch
-Marks in 3 subjects
-
-Methods you must create
-
-1️⃣ Without argument, without return
-
-Print welcome message
-
-
-2️⃣ With argument, without return
-
-Print student details
-
-
-3️⃣ Without argument, with return
-
-Return college name
-
-
-4️⃣ With argument, with return
-
-Calculate average marks  */
+Description:
+Displays student details, college name, and calculates
+average marks using different types of methods.
+*/
 
 package com;
 
@@ -77,3 +58,4 @@ public class Student {
 
 	}
 }
+

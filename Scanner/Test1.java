@@ -1,3 +1,4 @@
+//Example for Scanner
 package com;
 
 import java.util.Scanner;
@@ -17,3 +18,4 @@ class Test1 {
 	}
 
 }
+

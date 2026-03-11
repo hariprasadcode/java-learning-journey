@@ -33,6 +33,26 @@ public class BankAccountTransaction {
 
 			else {
 				System.err.println("Wrong Password!!!!");
+				System.out.println("Try Again 2 Attempt left");
+				System.out.print("Enter your Password : ");
+				String password1 = scan.next();
+				if(password1.equals("123jhon*")) {
+					System.out.println("Login Successful! Welcome to the portal.");	
+				}
+				else {
+					System.err.println("Wrong Password!!!!");
+					System.out.println("Try Again 1 Attempt left");
+					System.out.print("Enter your Password : ");
+					String password2 = scan.next();
+					if(password2.equals("123jhon*")) {
+						System.out.println("Login Successful! Welcome to the portal.");	
+					}
+					else {
+						System.err.println("Wrong Password!!!!");
+					}
+					
+				}
+				
 			}
 
 		} else {

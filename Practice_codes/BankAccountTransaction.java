@@ -1,3 +1,4 @@
+//just practicing and trying a real situation .
 package com;
 
 import java.util.Scanner;
@@ -5,7 +6,7 @@ import java.util.Scanner;
 public class BankAccountTransaction {
 
 	public void getEmail() {
-		System.out.println("Welcome To Bank of CODERS ");
+		System.out.println("Welcome To Bank of NO-Bank ");
 		System.out.println();
 		System.out.print("Enter you Email id : ");
 
@@ -142,5 +143,6 @@ public class BankAccountTransaction {
 		}
 
 	}
+
 
 }

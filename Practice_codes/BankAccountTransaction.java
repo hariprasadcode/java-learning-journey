@@ -1,4 +1,3 @@
-//just practicing and trying a real situation .
 package com;
 
 import java.util.Scanner;
@@ -6,7 +5,7 @@ import java.util.Scanner;
 public class BankAccountTransaction {
 
 	public void getEmail() {
-		System.out.println("Welcome To Bank of NO-Bank ");
+		System.out.println("Welcome To Bank of NO-BANK ");
 		System.out.println();
 		System.out.print("Enter you Email id : ");
 
@@ -32,7 +31,7 @@ public class BankAccountTransaction {
 				System.out.println("Login Successful! Welcome to the portal.");
 
 				System.err.println();
-				System.out.println("Choose Your Option : \n1 Check Balance \n2 Deposit \n3 Withdraw");
+				System.out.println("\nPress 1 to Check Balance \nPress 2 to Deposit \nPress 3 to Withdraw");
 				System.out.print("Your Option : ");
 				int opt = scan.nextInt();
 				if (opt == 1) {
@@ -54,7 +53,8 @@ public class BankAccountTransaction {
 					} else {
 						System.out.println("Current Balance after Withdraw : " + currentBalance);
 					}
-
+				} else {
+					System.err.println("Invalid Option");
 				}
 
 			}
@@ -68,7 +68,7 @@ public class BankAccountTransaction {
 					System.out.println("Login Successful! Welcome to the portal.");
 
 					System.err.println();
-					System.out.println("Choose Your Option : \n1 Check Balance \n2 Deposit \n3 Withdraw");
+					System.out.println("\nPress 1 to Check Balance \nPress 2 to Deposit \nPress 3 to Withdraw");
 					System.out.print("Your Option : ");
 					int opt = scan.nextInt();
 
@@ -94,6 +94,10 @@ public class BankAccountTransaction {
 
 					}
 
+					else {
+						System.err.println("Invalid Option");
+					}
+
 				} else {
 					System.err.println("Wrong Password!!!!");
 					System.out.println("Try Again 1 Attempt left");
@@ -102,7 +106,7 @@ public class BankAccountTransaction {
 					if (password2.equals("123jhon*")) {
 						System.out.println("Login Successful! Welcome to the portal.");
 						System.err.println();
-						System.out.println("Choose Your Option : \n1 Check Balance \n2 Deposit \n3 Withdraw");
+						System.out.println("\nPress 1 to Check Balance \nPress 2 to Deposit \nPress 3 to Withdraw");
 						System.out.print("Your Option : ");
 						int opt = scan.nextInt();
 
@@ -128,6 +132,10 @@ public class BankAccountTransaction {
 
 						}
 
+						else {
+							System.err.println("Invalid Option");
+						}
+
 					} else {
 						System.err.println("Wrong Password!!!!");
 						System.out.println("Try After 5 min");
@@ -141,8 +149,7 @@ public class BankAccountTransaction {
 			System.err.println("invalid Email");
 
 		}
-
+		scan.close();
 	}
-
 
 }

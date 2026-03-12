@@ -1,9 +1,11 @@
 package dom;
-/*A static variables can be reinitialized but if it reinitialized , then the reinitialized values will be the parmanent value for not the previous one.
+/*A static variables can be reinitialized but if it reinitialized , then the reinitialized values will be the parmanent value , not the previous one whic we initialized defore in class.
  * 
- * and a static variables can be called by using the object but its NOT the CORRECT PRACTICE.
+ * A static variables can be called by using the object but its NOT the CORRECT PRACTICE.
  * 
- * This example is just to show static can also called using object but not proper way . and it can also be reinitialized but it will be te parmanent.
+ * This example is just to show static can also called using object but its  not proper way . and it can also be reinitialized but it will be te parmanent.
+
+ SO WE SHOULD NOT REINITIALIZE THE STATIC VARIABLES AND WE SHOULD  CALL STATIC METHODS OR VARIABLES IN ITS OWN WAY NOT BY NON STATIC WAY
  * */
 public class Task {
 
@@ -41,3 +43,4 @@ public class Task {
 	
 	
 }
+

@@ -1,29 +1,14 @@
-package static_block;
-/*observing the Execution order while having multiple static Block*/
+// Example for non static block  
+package dom;
 public class Pen {
-	
-	//static String pen;
-
-	static
+	//declaring non static variable
+	String pen;
+	//creating a non static block
 	{
-		System.out.println("inside the static block 1");
-		//pen="Parker";
+		pen="montex";
+		System.out.println(pen);
 	}
-	
-    public static void main(String[] args) {
-		System.out.println("inside the main method");
+	public static void main(String[] args) {
+		Pen p=new Pen();
 	}
-	
-	static
-	{
-		System.out.println("inside the static block 2");
-	}
-	
-	static
-	{
-		System.out.println("inside the static block 3");
-	}
-	
-	
-	
 }

@@ -1,0 +1,15 @@
+--------CONSTRUCTOR----------
+
+Constructor is a special type of method.
+It is a set of instruction like a a Method and Block used for  initialize of NON STATIC  variable and instantiation.
+
+RULE : Constructor name must be same as ClassName.
+
+you can accept parameters in the constructor, but its  optional.
+constructor will execute once an object is created.
+Constructor doesnot have any return type, not even void.
+
+TYPES :
+1 Default Constructor
+2 Custom Non Parameterized Constructor.
+3 Custom Parameterized Constructor.

@@ -1,6 +1,6 @@
 package single_level;
 
-public class Person {
+public class Personn {
 	String name;
 	int age;
 	

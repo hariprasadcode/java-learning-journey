@@ -1,6 +1,6 @@
 package single_level;
 
-public class Student extends Person{
+public class Studentt extends Person{
 	int id;
 	String college;
 	

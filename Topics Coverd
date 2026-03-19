@@ -1,51 +1,42 @@
 # 💻 CORE JAVA TOPICS COVERD
+
 ### *Build Strong Programming Basics*
-
----
-
-## 📘 Introduction
+---------------------------------------
+##  Introduction
 - What is Java?
 - Why Java? *(Platform Independent, Secure, Robust)*
-
----
-
-## 🧩 Basic Concepts
+-----------------------------------------------------
+##  Basic Concepts
 - Class & Object  
 - Keywords & Identifiers  
 - Variables & Default Values  
 - Declaring & Initializing Variables  
-
----
-
-## ⚙️ Object Handling
+------------------------------------
+##  Object Handling
 - Object Creation  
 - Scanner *(User Input)*  
-
----
-
-## 🛠️ Methods & Blocks
+-------------------------
+##  Methods & Blocks
 - Methods  
 - Types of Methods  
 - Blocks & Types of Blocks  
-
----
-
-## 🏗️ Constructors
+----------------------------
+##  Constructors
 - Constructor Basics  
 - Types of Constructors  
 
----
+------------------------------
 
-## 🌐 Variable Scope
+##  Variable Scope
 - Global Variables  
 - Local Variables  
 
----
+---------------------
 
 ## 🚀 Next Step → OOP
 - Introduction to Inheritance  
   *(Start of 4 Pillars of OOP)*  
 
----
+--------------------------------------
 
 ## ✨ Start Your Java Journey Today!

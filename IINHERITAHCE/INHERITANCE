@@ -8,5 +8,5 @@ In Java we achive inheritance with the help of extence Key word.
 
 Inheritance is also refered as IS-A-RELATIONSHIP 
 
-In java only
+In java only Variables abd mwthods are inherited , where Block and constructor are not inherited.
 

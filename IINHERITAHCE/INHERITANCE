@@ -4,3 +4,9 @@ Inheritance is a process by which one class aquires the properties and behaviour
 The class which gives or shares the properties are called as PARENT CLASS or SUPPER CLASS or BASE CLASS.
 The class which inhirits or aequires the properties are called as CHILD CLASS or SUB CLASS or DERIVED CLASS.
 
+In Java we achive inheritance with the help of extence Key word.
+
+Inheritance is also refered as IS-A-RELATIONSHIP 
+
+In java only
+

@@ -1,2 +1,6 @@
 #INHERITANCE
 Inheritance is a process by which one class aquires the properties and behaviours of another class.
+
+The class which gives or shares the properties are called as PARENT CLASS or SUPPER CLASS or BASE CLASS.
+The class which inhirits or aequires the properties are called as CHILD CLASS or SUB CLASS or DERIVED CLASS.
+

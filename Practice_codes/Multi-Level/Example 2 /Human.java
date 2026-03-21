@@ -10,4 +10,4 @@ public class Human {
 		System.out.println("Does : Walk , run , eat sleep , sit , talk");
 	}
 
- }
+}

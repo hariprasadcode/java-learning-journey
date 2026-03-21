@@ -14,4 +14,4 @@ public class Manager extends Human {
 		h1.does();
 	}
 	
-}
+ }

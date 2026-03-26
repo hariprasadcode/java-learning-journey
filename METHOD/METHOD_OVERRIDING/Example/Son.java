@@ -1,7 +1,7 @@
 package com;
 
 public class Son extends Father {
-	
+	@Override
 	public void result() {
 		int total=a-b;
 		System.out.println(total);

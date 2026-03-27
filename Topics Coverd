@@ -1,55 +1,32 @@
-# 💻 CORE JAVA TOPICS COVERD
+1  What is Java
+2  Byte Code
+3  Key Words
+4  Identifiers
+5  Variables
+6  Data Types
+7  OOPS (Object)
+8  Class
+9  new Keyword
+10  Default Values
+11  Method
+12  4 ways to create Methods
+13  Scanner
+14  static
+15  Blocks
+16  Constructor
+17  Types of Constructor
+18  this keyword
+19  piller of OOPS
+20  extends Keyword
+21  Inheritance
+22  Types of Inheritance
+23  Super Keyword
+24  constructor overloading
+25  Constructr Chaining
+26 Method Overriding
+27
+28
+29
+30
+..........
 
-### *Build Strong Programming Basics*
----------------------------------------
-##  Introduction
-- What is Java?
-- Why Java? *(Platform Independent, Secure, Robust)*
------------------------------------------------------
-##  Basic Concepts
-- Class & Object  
-- Keywords & Identifiers  
-- Variables & Default Values  
-- Declaring & Initializing Variables  
-------------------------------------
-##  Object Handling
-- Object Creation  
-- Scanner *(User Input)*  
--------------------------
-##  Methods & Blocks
-- Methods  
-- Types of Methods  
-- Blocks & Types of Blocks  
-----------------------------
-##  Constructors
-- Constructor Basics  
-- Types of Constructors  
-
-------------------------------
-
-##  Variable Scope
-- Global Variables  
-- Local Variables  
-
----------------------
-
-## pillers od oops
-- Introduction to Inheritance  
-  types of inheritance
-1 single level inherutance
-2 multi level inheritance
-3 hierarchical inheritance
-4 multiple inheritance
-5 hybrid inheritance
---------------------------------------
-supper Keyword
-----------------
-## Constructor Overloading
-## Constructor Chaining
---------------------------
-#method Overriding
------------------
-
-## 
-
-## ✨ Start Your Java Journey Today!

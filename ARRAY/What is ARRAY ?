@@ -1,0 +1,5 @@
+ARRAY
+
+Array is a collection of elements of same data type stored in contigues memeory location (values will be stored one after the another).
+
+array is aspecial type of object in java which allows us to manage a group of related values using single reference

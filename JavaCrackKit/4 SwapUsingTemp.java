@@ -1,5 +1,5 @@
 package technical_round;
-
+// swaping the values by using temp
 public class SwapUsingTemp {
 	public static void main(String[] args) {
 		int a=10,b=20;

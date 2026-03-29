@@ -1,5 +1,5 @@
 package technical_round;
-
+// swaping values of two variables without using temp
 public class SwapWithoutTemp {
 
 	public static void main(String[] args) {

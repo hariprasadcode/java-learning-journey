@@ -1,8 +1,9 @@
+//Check the given string is Palindrome or not
 package technical_round;
 
 import java.util.Scanner;
 
-public class Palindrom {
+public class Palindrome {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		String str = scan.next();

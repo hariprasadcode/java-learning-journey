@@ -2,5 +2,7 @@ Method Overloading
 ------------------
 Method overloading is defining a multiple methods  with a same name but different arguments or parameters in the same class 
 method overloading improves code readability and reuse.
-both static and mo-static method can be overloaded.
+both static and non-static method can be overloaded.
 return type of the overload method can be same or different.
+the main method can also ne overloaded but the execution always starts from the main method having String[] as the argument.
+

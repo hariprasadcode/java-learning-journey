@@ -1,4 +1,12 @@
 Method Overriding
 -----------------
-
 The process if inheriting the method and changing the implemention of inherited method is called method overriding.
+IS-A Relationship is mandatory.
+
+in order to achive method overriding we will have to follow the following rules.
+  1 method name must be same
+  2 parameter should be same.
+  3 return type should be same
+  4 access modifier should be same or of higher visibility.
+
+

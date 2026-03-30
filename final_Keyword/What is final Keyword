@@ -1,4 +1,14 @@
 final Keyword
+-------------
 
 final keyword in java is used to restrict modification.
 it can be used with variables,methods,classes.
+
+final variable
+a finaly variable cannot be changed once assigned or initialized. we must initialize it only once either at declaration or in constructor.
+
+final method
+a final method cannod overridden in the child class.
+it can be inherited but not modified.
+
+

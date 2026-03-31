@@ -25,12 +25,13 @@ public class Demo2 {
 		
 		System.out.print("Socal: ");
 		marks[5]=scan.nextInt();
-		
+
+		// using forEach to find sum of all marks 
 		double sum=0;
 		for(int m:marks) {
 			sum+=m;
 		}
-		
+		//finding average.
 		double avg=sum/6;
 		System.out.println("Average : "+avg);
 		

@@ -1,3 +1,4 @@
+//used scanner, array and for each .its just an example 
 package com;
 
 import java.util.Scanner;

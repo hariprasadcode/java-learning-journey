@@ -1,6 +1,6 @@
 package com;
 /*Here we learned about the array and its different ways of declaration initializations */
-public class demo {
+public class Demo1 {
 	
 	public static void main(String[] args) {
 		//Array declaration

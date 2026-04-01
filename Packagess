@@ -4,3 +4,8 @@ Pakages are ntg but folder or directories.
 A pakage is a collection of related classes and interclasses.
 Pakages help in naming conflicts and they improve code redability and maintanance , especally in large projects.
 Pakages also help in controling access using Access modifiers.
+Searching and maintanance of the program becomew easy when we have multiple packages.
+
+There are two types of pakages 
+  1  inbuilt pakage.
+  2  User defined pakage.

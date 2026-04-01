@@ -1,3 +1,5 @@
+
+/*Example for Public  which is accessable from anywhere(same class , same pakage, different pakage)*/
 package com.dcl;
 
 public class Student {

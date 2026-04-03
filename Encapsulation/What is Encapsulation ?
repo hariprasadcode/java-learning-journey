@@ -1,0 +1,11 @@
+Encapsulation ?
+It is a process of wrapping (binding) and data members or a variables and theter related methodes into a single unit is called encapsulation.
+It is also reffered as process of grouping and protecting data inside a class.
+It helps in data hiding and controled access to the data.
+
+Rules.
+1  declare variables as private.
+2  provide public getter method ----to read data.
+3  provide public setter method ----to modifi or set data.
+
+The best example for Encapsulation is a Java Bean Class

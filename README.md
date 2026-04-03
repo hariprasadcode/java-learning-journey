@@ -1,7 +1,5 @@
 ##  Java Full Stack Developer Journey  
 
-> "Coding my path from curiosity to mastery — one program at a time."
-
 Welcome to my **Java learning journey**.
 
 This repository contains the programs I write while **learning and practicing Java every day**. It represents my continuous effort to grow from understanding the fundamentals to mastering advanced concepts.

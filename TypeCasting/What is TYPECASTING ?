@@ -8,8 +8,8 @@ Type Casting is Classified into 2 things
 
 1) Primitive Type Casting:
     It is classified into 2 types
-    A) Widening (implicitly)
-    B) Narrowing (Explicitly)
+    A) Widening (implicitly) :- converting a smaller /shorter  data type into larger data type
+    B) Narrowing (Explicitly) :- Converting a larger data type into smaller /shorter data type 
 
 2) Non-Primitive Type Casting:
    It is classified into 2 types

@@ -4,11 +4,16 @@ It is used when we want to store one datatype into another datatype variable.
 
 Type Casting is Classified into 2 things
 1   prinitive typecasting
-2   non-primitive typecasting
+2   Non-primitive typecasting
 
 1) Primitive Type Casting:
     It is classified into 2 types
     A) Widening (implicitly)
     B) Narrowing (Explicitly)
+
+2) Non-Primitive Type Casting:
+   It is classified into 2 types
+    A) UpCasting
+    B) DownCasting
 
 

@@ -6,3 +6,9 @@ Type Casting is Classified into 2 things
 1   prinitive typecasting
 2   non-primitive typecasting
 
+1) Primitive Type Casting:
+    It is classified into 2 types
+    A) Widening (implicitly)
+    B) Narrowing (Explicitly)
+
+

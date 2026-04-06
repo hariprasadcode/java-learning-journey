@@ -1,5 +1,5 @@
---------CONSTRUCTOR----------
-
+CONSTRUCTOR
+-----------
 Constructor is a special type of method.
 It is a set of instruction like a a Method and Block used for  initialize of NON STATIC  variable and instantiation.
 

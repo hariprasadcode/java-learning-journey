@@ -5,4 +5,6 @@ Java Bean Class is the best example of java encapsulation.
 Specification For Java Bean Class
 1  A class should be public Non abstract class.
 2  A class should have a public non parameterized constructor.
-3  
+3  All variables or data members should be private
+4  Provides public getter and setter method for all variable
+5  The class should implement a  marker interface called serilizable

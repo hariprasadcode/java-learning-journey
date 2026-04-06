@@ -1,3 +1,4 @@
+/*Example for 4 types ways of methods which we can write*/
 package com;
 
 public class MethodPractice {

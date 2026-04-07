@@ -13,7 +13,7 @@ Type Casting is Classified into 2 things
 
 2) Non-Primitive Type Casting:
    It is classified into 2 types
-    A) UpCasting
-    B) DownCasting
+    A) UpCasting : In this IS -A relationship is mandatory 
+    B) DownCasting : In this IS-A relationship and UpCasting is mandatory 
 
 

@@ -1,4 +1,4 @@
-## 🚀 Java Full Stack Developer Journey
+##  Java Full Stack Developer Journey
 
 Welcome to my **Java learning journey**.
 
@@ -8,7 +8,7 @@ Each program represents my effort to improve coding skills, problem-solving abil
 
 ---
 
-## 🎯 Learning Goals
+##  Learning Goals
 
 * Build a strong foundation in Java
 * Understand core and advanced concepts
@@ -16,13 +16,5 @@ Each program represents my effort to improve coding skills, problem-solving abil
 * Practice coding regularly
 * Improve problem-solving skills
 * Become a skilled Java Full Stack Developer
-
----
-
-## 📅 Journey Started
-
-**28 February 2026**
-
----
 
 ⭐ *One line of code today, one step closer to becoming a better developer.*

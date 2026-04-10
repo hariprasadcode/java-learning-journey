@@ -1,4 +1,4 @@
-//Reverse a String 
+//Reverse a String
 package reversestring;
 
 public class ReverseString {

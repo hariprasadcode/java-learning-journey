@@ -1,3 +1,4 @@
+//Example for Global and local Variable
 package snippet;
 
 public class Demo3 {

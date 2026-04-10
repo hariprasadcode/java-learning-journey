@@ -1,3 +1,4 @@
+//just a simple example for scanner
 package com;
 
 import java.util.Scanner;

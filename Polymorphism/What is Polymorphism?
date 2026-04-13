@@ -1,0 +1,7 @@
+What is Polymorphism?
+It is the Ability of a method to behave differently based on a object acting on it.
+In simple wordes Ploymorphism is a same method name having different behaviours.
+
+Types of Polymorphism 
+1  Compile time Polymorphism
+2  Run time polymorphism

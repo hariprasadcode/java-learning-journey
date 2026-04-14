@@ -1,3 +1,4 @@
+//example to shoe cannot have abstract method inside concrete class
 package com.hp;
 //concrete class
 public class Person {

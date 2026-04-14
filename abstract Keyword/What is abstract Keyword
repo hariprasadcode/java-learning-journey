@@ -1,0 +1,26 @@
+abstract Keyword
+
+It is a keyword which can be used with classes and methods.
+
+concrete class :
+a class which is not declared with abstract keyword .
+
+Abstract class :
+A class which is declared with abstract keyword.
+Abstract class is incomplet class, abstract class can have abstract methods as well concrete methods
+
+concrete method:
+a concrete method which is not declared with abstract keyword and which has both declaraction and implementation .
+example :  
+ void m1()
+  {
+  -------
+  -------
+   }
+
+Abstract method: 
+An abstract method has only declaration and no implementation .
+The implementation for the abstract method should be provided by the sub class after Overriding it.
+It must be declared using abstract keyword
+
+syntax : Accessspecifier  abstrcat retrunType methodName();

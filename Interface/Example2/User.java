@@ -1,5 +1,5 @@
 package com.dcl.example;
-
+//class overidding all the abstrac method 
 public class User implements HDFC{
 	
 	@Override

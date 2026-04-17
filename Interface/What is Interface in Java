@@ -1,0 +1,9 @@
+Interface
+
+A interface is a java type defination likr a class which is declared using the "interface" Keyword.
+
+In other word it acts as a medium between two systems or components.
+  one is the client or user who is asking for the resource
+  Another is the onject provideding resource and services.
+
+in simple terms interface defines What to do rather that How to do.

@@ -30,5 +30,5 @@ syntax : Accessspecifier  abstrcat retrunType methodName();
 NOTE: 
 A class inherits or extend an abstract class
 We cannot create an object of abstract class
-Abstract method : cannot be PRIVATE, STATIC
+Abstract method : cannot be PRIVATE, STATIC , FINAL
 

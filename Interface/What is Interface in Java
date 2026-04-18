@@ -12,6 +12,8 @@ It is generally used to achive 100% abstraction which is not possible using abst
 
 Interface can have 
 Variables: all variales in interface are public,static,final by default
+Methods: all methods in interface are public and Abstraact by default
+
 
 
 

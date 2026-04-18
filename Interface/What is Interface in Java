@@ -14,6 +14,10 @@ Interface can have
 Variables: all variales in interface are public,static,final by default
 Methods: all methods in interface are public and Abstraact by default
 
+A class can achive IS-A relationship with interface using the 'implements' keywords
+Interface do no have constructor.
+we cannot creat object of interface.
+
 
 
 

@@ -24,3 +24,10 @@ The implementation for the abstract method should be provided by the sub class a
 It must be declared using abstract keyword
 
 syntax : Accessspecifier  abstrcat retrunType methodName();
+
+
+
+NOTE: 
+A class inherits or extend an abstract class
+We cannot create an object of abstract class
+Abstract method : cannot be private

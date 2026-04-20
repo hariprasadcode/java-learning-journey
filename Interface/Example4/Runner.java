@@ -4,10 +4,10 @@ public class Runner {
 
 	public static void main(String[] args) {
 		Mobile m= new Mobile();
-		m.powerOn();
-		m.clickPhoto();
-		m.playMusic();
-		m.powerOff();
+		m.powerOn();  \\extended from ElectricDevice class
+		m.clickPhoto(); \\from camera interface 
+		m.playMusic();    \\from musicplayer interface
+		m.powerOff();      \\from ElectricDevice class
 		
 	}
 }

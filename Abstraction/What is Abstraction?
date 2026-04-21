@@ -1,0 +1,13 @@
+Abstraction 
+Abstraction is a process of hiding the implementation details and showing only the functionalities to the user with the help of abstract class or interface is called abstraction in java.
+It helps in reducing complexity and improving code clarity
+
+To Achive Abstraction we have two options
+  1 Abstract Class
+  2 Interface
+
+How Abstraction workes
+1 create an abstract class or interface
+2 Achive IS-A relationship
+3 Achive Method Overriding
+4 Achive upcasting

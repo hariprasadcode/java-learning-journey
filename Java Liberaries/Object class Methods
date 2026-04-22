@@ -1,3 +1,6 @@
 There are 11 methods present
 
 1  protected object clone();
+2 public boolean equals(object o)
+3 public String toString()
+4 public int hashcode()

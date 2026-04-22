@@ -10,3 +10,4 @@ There are 11 methods present
 8 public void notify()
 9 public void notifyAll()
 10 Public void getclass()
+11 protected void finalize()  - Deprecated

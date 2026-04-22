@@ -8,4 +8,5 @@ There are 11 methods present
 6 public void wait(long b. int a)
 7 public void wait(long b)
 8 public void notify()
-public void notifyAll()
+9 public void notifyAll()
+10 Public void getclass()

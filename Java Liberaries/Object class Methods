@@ -4,3 +4,8 @@ There are 11 methods present
 2 public boolean equals(object o)
 3 public String toString()
 4 public int hashcode()
+5 public void wait()
+6 public void wait(long b. int a)
+7 public void wait(long b)
+8 public void notify()
+public void notifyAll()

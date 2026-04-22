@@ -1,0 +1,20 @@
+Java Liberaries 
+it is a collection of pre-defined in built java components like classes , interface , Annotations ect
+
+A liberarie typically contains compressed JAR File
+for the JAR Files contains Multiple packages
+the package contains classes and interface.
+
+Example:-
+
+JRE System Liberary
+|
+|
+------(JAR Files)java.base-------
+|                    |
+------java,Sql       |
+                     |
+                     |
+                     ----------(packages) java.lang -----------(classes or interfaces) object  ,   System  ,  String
+                               java.util-----------Scanner  ,  ArrayList , Optional
+                               java.io-------------FileReader  ,  FileInputStream

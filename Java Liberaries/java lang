@@ -1,0 +1,8 @@
+Java lang
+  This package is implicitly or automatically imported in all the Java classes and interface
+
+object Class
+  Object is a predefined class present in java.lang package
+  object class is refered as the super most class in java
+  object class is implicitly inherited by all java classes
+  

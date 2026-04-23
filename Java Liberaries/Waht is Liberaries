@@ -11,10 +11,10 @@ JRE System Liberary
 |
 |
 ------(JAR Files)java.base-------
-|                    |
-------java,Sql       |
-                     |
-                     |
-                     ----------(packages) java.lang -----------(classes or interfaces) object  ,   System  ,  String
-                               java.util-----------Scanner  ,  ArrayList , Optional
-                               java.io-------------FileReader  ,  FileInputStream
+|                               |
+------java,Sql                  |
+                                |
+                                |
+                                 ----------(packages) java.lang -----------(classes or interfaces) object  ,   System  ,  String
+                                                      java.util-----------Scanner  ,  ArrayList , Optional
+                                                      java.io-------------FileReader  ,  FileInputStream

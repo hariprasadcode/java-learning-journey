@@ -1,4 +1,4 @@
-##  Java Full Stack Developer Journey
+##  Java Developer Journey
 
 Welcome to my **Java learning journey**.
 

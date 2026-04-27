@@ -48,5 +48,7 @@
 48  Storing object in Array
 49  toString()
 50  equals()
+51  hashCode()
+52
 
 

@@ -8,6 +8,11 @@ public class Student {
   }
   
   public boolean equals(Object obj) {
+	  		/*NOTE 
+		 * The s2 object which is of student classtype is getting upcasted to object obj
+		 * and coming in the method parameter.
+		 * using the upcasting parent class ref we can access the parent class propertyies
+		 * we will have to down cast it to accessthe child class properties*/
 	  Student student=(Student)obj;
 	  return this.age==student.age;
   }

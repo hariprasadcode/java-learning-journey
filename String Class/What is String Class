@@ -1,0 +1,12 @@
+String Class
+
+String is a pre defined Public final class present in java.lang Package
+
+String is a Collection or set of Characters
+its also a non premitive Data type
+
+String obkects can be created in 2 ways
+   1  as a literal
+   2  using new Keyword
+
+String objects are stored inside the memory called as String Constant Pool (SCP).

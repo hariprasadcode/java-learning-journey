@@ -1,3 +1,4 @@
+//Its not a string Class its just to say that  we need to override the methods 
 package com;
 
 public class Car {

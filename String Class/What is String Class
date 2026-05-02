@@ -12,3 +12,10 @@ String obkects can be created in 2 ways
 *String objects are stored inside the memory called as String Constant Pool (SCP). Which is present inside Heap Area
 *String objects as Literal are stored insie SCP and SCP doesenr allows duplicates.
 *String objects created using new keyword are stored inside scp as well as heap area directly like other objects and here duplicates are allowed.
+
+String is Immutable
+
+Mutable versions od string are
+1]StringBuffer
+2]StringBuilder
+

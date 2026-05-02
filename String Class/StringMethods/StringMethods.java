@@ -1,3 +1,4 @@
+/*Total there are 70 methods here there are few important methods*/
 package string_methods;
 
 public class StringMethods {

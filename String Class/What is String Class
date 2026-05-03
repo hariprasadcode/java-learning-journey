@@ -14,7 +14,7 @@ String obkects can be created in 2 ways
 *String objects created using new keyword are stored inside scp as well as heap area directly like other objects and here duplicates are allowed.
 
 String is Immutable
-String class has 15 constructors
+String class has 15 constructors and 70 methods 
 
 Mutable versions od string are
 1]StringBuffer

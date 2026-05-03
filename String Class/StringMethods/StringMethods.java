@@ -35,7 +35,7 @@ public class StringMethods {
 		System.out.println("------utility Methods-------");
 		System.out.println(s2.split(","));
 		System.out.println(s1.join("-","p","r","o"));
-		System.out.println(10);
+		System.out.println(String.valueOf(10));
 
 
 	}

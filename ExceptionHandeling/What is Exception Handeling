@@ -1,0 +1,9 @@
+EXCEPTION HANDLING
+Exception is also an interuption or an event which occurs during the execution and stops the execution of program.
+If the exception is occured the bellow line of code will not be executed.
+Exception in java can be handled
+
+The process of Handling an exception is called an enception handling
+Typically an exception is handled using
+   * Try block
+   * Catch block

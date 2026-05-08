@@ -1,21 +1,21 @@
-package com;
-
-import java.util.Scanner;
+package com.dcl.throws_keyword;
 
 public class Demo1 {
-public static void main(String[] args) {
-	Scanner sc=new Scanner(System.in);
-	System.out.println("START");
-	System.out.print("Enter a Value for A: ");
-	int A= sc.nextInt();
-	System.out.print("Enter a value for B: ");
-	int B=sc.nextInt();
-	try {
-	System.out.println(A/B);
+	static void print() throws ArithmeticException
+	{
+      System.out.println(10/0);		
 	}
-	catch(ArithmeticException e){
-		System.out.println("Dont diveide by Zero ");
+	
+	public static void main(String[] args) {
+		System.out.println("start");
+		try {
+		print();
+		}
+		catch(ArithmeticException e) {
+			e.printStackTrace();
+		}
+		
+		System.out.println("end");
 	}
-	System.out.println("END");
-}
+
 }

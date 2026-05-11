@@ -1,0 +1,6 @@
+throw keyword
+
+* It is a keyword used to explicitly throw an exception object.
+* It is generally used with custom exception
+* throw is used for creating and throwing wxception Manually
+* It is used inside method or block

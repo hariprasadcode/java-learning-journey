@@ -1,0 +1,4 @@
+Custom Exception
+Custom exception is an exception created bt a programmer based on the project requirement
+It is also called as user defined exception
+it is used when built in exception are not sufficient for the project.

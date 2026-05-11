@@ -53,8 +53,9 @@
 53  String Class
 54  String methods
 55  Exception Handeling
-56  
-57
+56  throws Keyword
+57  throw Keyword
+58  Custom Exception (User Defined Exception)
 
 
 

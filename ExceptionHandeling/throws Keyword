@@ -1,0 +1,5 @@
+throws Keyword
+
+* it is a keyword used to declare the exception that a method can throws.
+* Throws is the indication to the caller about the possibility of exception
+* Throws is used to propogate an exception insted of handeling it instantly

@@ -1,0 +1,8 @@
+ArrayList
+It is a predefined class in java.util package
+that implements the list interface it has all the four features of list interface
+
+It was introduced in JDK 1.2
+
+The undrlying dataStructure is growable or resizable array
+

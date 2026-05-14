@@ -1,0 +1,10 @@
+List Interface
+List is a predefined interface present in java.util package
+List is a child interface of collection interface
+It was introduced in JDK 1.2
+
+Specification or features of List :-
+1) Maintains Insertion Order
+2) It is index based 
+3) It allows duplicate elements
+4) It allows Null values

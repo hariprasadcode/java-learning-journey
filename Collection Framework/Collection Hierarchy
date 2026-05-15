@@ -1,11 +1,39 @@
-                                                                      <<Iterable>>
+COLLECTION HIERARCHY :-
+                                                                      
+
+
+                                                                     <<Iterable>> 
+                                                                       interface
                                                                            |
                                                                         Extends
                                                                            |
-                                                                     <<Collection>>
+                                                                     <<Collection>> 
+                                                                        interface
                                                          |                 |                |
-                                                     extends            extends          extends
+                                                     (extends)         (extends)        (extends)
                                                          |                 |                |
                                                      <<List>>          <<Queue>>         <<Set>>
+                                                    Interface          Interface        Intereface
+
+           |                          |                                    |                               |                         |                          |
+ (implements from List)      (implements from List)     (implem from List as well as Queue)      Implements form Queue       (implements from Set)       (implements from Set)
+           |                          |                                    |                               |                          |                            |
+      ArrayList                     Vector                            LinkedList                     PriorityQueue                 HashSet                    <<Sorted>>
+        class                       class                                class                           class                      class                      Interface
+                                      |                                                                                               |                            |
+                            (extends from vector)                                                                          (extends from HashSet)         (extends from sorted)
+                                      |                                                                                               |                            |
+                                    Stack                                                                                        LinkedHashset                <<Navigable>>
+                                    Class                                                                                            Class                      Interface
+                                                                                                                                                                   |
+                                                                                                                                                                 TreeSet
+                                                                                                                                                                  Class
+
+
+
+
+
+
+ 
                                                     
   

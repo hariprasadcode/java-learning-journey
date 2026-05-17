@@ -1,0 +1,7 @@
+LinkedList
+Linked list is a prededines class present in java.util package.
+that implements list interface
+It has all the feature of list interface 
+it was introduced in JDK 1.2
+the underlying data strucure is double linked list 
+

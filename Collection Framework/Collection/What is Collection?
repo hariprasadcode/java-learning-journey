@@ -1,0 +1,9 @@
+Collection 
+collection is the root  interface  of collectionsFramework
+It defines common methods used by all collection classes
+
+all collection class like 
+    1  ArrayList
+    2  HashSet
+    3 LinkedList
+     implement this interface

@@ -57,9 +57,9 @@
 57  throw Keyword
 58  Custom Exception (User Defined Exception)
 59  List
-60  List
-61  ArrayList
-62  LinkedList
+60  ArrayList
+61  LinkedList
+62 
 63
 
 

@@ -1,0 +1,5 @@
+Multiple Inheritance Conflicts:
+
+This is the Scenario where Multiple inheritance fails even with interface 
+
+When the parent interface have method with same name and different return type

@@ -1,0 +1,6 @@
+Un-Boxing
+Converting a wrapper class object into its corresponding primitive type is un-Boxing
+
+Example:
+Integer a=30;
+int b=a.int Values(a);

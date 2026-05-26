@@ -1,0 +1,7 @@
+Wrapper Class
+* Wrapper class are used to convert premitive datatype into object
+* Each primitive datatype has a corresponding wrapper class
+* They are present in java.lang package
+* Every wrapper class is a final class
+* Collection stores only object not primitive type
+* Wrapper classes are used in collection , generics and also can be used for the utility methods they provide

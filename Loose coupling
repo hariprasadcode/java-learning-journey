@@ -1,0 +1,8 @@
+Loose Coupling
+
+Losse coupling in Java Means reducing dependency  between classes.
+In loosely coupled system one class doesent depend havely on another class
+changes made in one class will have minimal or no impact on other classes
+we need loose coupling to make the code flexible, maintainable and scalable
+It is easy to modify or replace the service provided by the services provider or wendor
+it can be achived using abstraction and interfaces

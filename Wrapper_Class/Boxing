@@ -1,1 +1,6 @@
+Boxing
+Converting Primitive Data type into its Corresponding Wrapper class object is called Boxing
 
+Example : 
+int x=20;
+Integer y= new Integer(x);

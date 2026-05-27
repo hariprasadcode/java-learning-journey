@@ -1,0 +1,7 @@
+Generics
+
+Generics in java Allows us to specify the type of data while creating a class or interface or Method
+In collection Framwork it is used to specify the element type or the object type;
+It was Introduce in JDK 1.5
+It is used to deal with only specific type of object
+It is defined using Angular Bracket   <  >

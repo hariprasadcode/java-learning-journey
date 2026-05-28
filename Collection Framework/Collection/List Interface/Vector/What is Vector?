@@ -1,0 +1,10 @@
+Vector
+
+It is predefined class present in java.util package that implements the list interface 
+it has all the features of list 
+it was introduced in JDK 1.0 (It is Lagecy class)
+Just like arraylist the underlying datastructure is Growable/Resizable array
+It maintainans memory location like arrays
+it has default initial capacity of 10
+the default incremental capacity is 2x
+Vector is Thread safe (Syncronized) and this is why it is slower than Arraylist

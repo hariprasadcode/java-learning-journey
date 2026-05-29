@@ -1,0 +1,8 @@
+HashSet
+
+HashSet is a predefined class present in java.util package which implements the set interface
+it was introduced in JDK 1.2
+It has all the features of set interface
+the underlying datastructure inn HashTable
+it has initial capacity of 16 
+lode factor of fill ratio is 75% of the current capacity.

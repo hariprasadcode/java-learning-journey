@@ -1,0 +1,6 @@
+Set interface
+
+It is a predefined interface in java.util package which extends collection interface
+It is used to stored a group of unique element
+It was introduced in JDK 1.2
+It does not allow duplicate value , if used trying to add the duplicate element it is ignored.

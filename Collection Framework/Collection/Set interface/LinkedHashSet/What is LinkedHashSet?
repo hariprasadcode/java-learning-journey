@@ -1,0 +1,7 @@
+LinkedHashSet?
+LinkedHashSet is a perdefined class present in java.util package that implements the set interface 
+
+It has all the features of the set interface 
+It was introduced in JDK 1.4
+It has the underlying data structure as HashTable + LinkedList
+It uses Hashing Mechanism to maintain the uniqueness for storing and linkedlist to maintain the insertion oeder

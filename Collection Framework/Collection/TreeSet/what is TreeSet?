@@ -1,0 +1,8 @@
+TreeSet
+It is a predefined class present in java.util package that implements the set interface
+It was introduced in JDK 1.2
+It has all the features from order interface
+Elements are stored in sorted order Automatically
+By default It manintains Assending order can be changed to custom sorting by the user
+IT doesnot Allows Null value
+The underlying Data Structure is RED-BLACK Tree.

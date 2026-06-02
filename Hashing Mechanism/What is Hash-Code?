@@ -2,3 +2,4 @@ Hash-Code
 
 It is an integer or numeric representation of object address.
 Every object has an uniqque address hence every object has unique hashCode value
+We can get the hashcode of every object using an inbuilt method defined in the suppermost class called object (HashCode Method)

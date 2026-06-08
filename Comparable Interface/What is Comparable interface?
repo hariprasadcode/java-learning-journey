@@ -1,0 +1,3 @@
+Comparable interface
+It is a predefined interface present in java.lang package it is used to define the default sorting logic of objects (Assending Order)
+It is used when object need to sorted automatically.

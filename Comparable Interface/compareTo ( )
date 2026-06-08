@@ -1,0 +1,14 @@
+compareTo()
+It is the Abstract method present inside comparable interface
+
+syntax :-     public int compareTo(Object o);
+
+It is used to compare two objects and decide sorting order
+compareTo() is mainly used in Treset and sorting collection
+return values of compareTo are    
+   0  when object are equal
+  +ve  current object is greater
+  -ve when current object is smaller
+
+sorting is an assending order by defaault 
+compareTo()  overriden inside all wraperclass and also in the string class

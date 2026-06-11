@@ -1,0 +1,19 @@
+package map.hashmap;
+
+
+import java.util.LinkedHashMap;
+
+public class LinkedHashMapExample {
+	public static void main(String[] args) {
+		//here it maintains insertion oreder
+		LinkedHashMap<Integer ,String> cities=new LinkedHashMap<>();
+		cities.put(574016, "udupi");
+		cities.put(560076, "benglure");
+		cities.put(700043, "kolkatha");
+		cities.put(473101, "guna");
+		cities.put(452006, "indore");
+		cities.put(null, "INDIA");
+		System.out.println(cities);
+	}
+
+}

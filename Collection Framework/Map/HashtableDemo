@@ -1,0 +1,21 @@
+package map.hashtable;
+
+import java.util.Hashtable;
+
+public class HashtableDemo {
+	public static void main(String[] args) {
+		Hashtable <String , Integer> marks = new Hashtable<>();
+		
+		marks.put("Maths", 75);
+		marks.put("Computer", 97);
+		marks.put("Chemistry", 82);
+		marks.put("Physics", 92);
+		marks.put("English", 70);
+		//marks.put(null, 75);//throw nullPointerexception
+		//marks.put("Kannada", null);//throw nullPointerexception
+		System.out.println(marks);
+
+
+	}
+
+}

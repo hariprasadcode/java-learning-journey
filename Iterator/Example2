@@ -1,0 +1,24 @@
+package com.dcl;
+
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Set;
+
+public class Demo2 {
+	public static void main(String[] args) {
+		Set<String>subject = new HashSet<String>();
+		subject.add("java");
+		subject.add("spring");
+		subject.add("html");
+		subject.add("sql");
+		
+		Iterator<String> itr=subject.iterator();
+		while(itr.hasNext()) {
+			String value=itr.next();
+			System.out.println(value);
+		}
+		
+
+	}
+
+}

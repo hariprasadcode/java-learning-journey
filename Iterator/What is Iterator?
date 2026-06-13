@@ -1,1 +1,5 @@
-
+Iterator
+It is a Predefined interface present in Java.util Package
+Iterator is functionally a cursor which is used to iterator over any collection 
+Iterator can be used with any collection like List , Set ,Queue
+It is not index based

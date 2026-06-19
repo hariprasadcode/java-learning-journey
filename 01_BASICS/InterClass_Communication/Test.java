@@ -4,7 +4,7 @@ class Test
   {
 
       // Creating first object of Employee class
-      // This object will access default values of non-static variables
+      // This object will access default values of non-static variablees
      Employee E1=new Employee();
 
           // Printing default values assigned in Employee class

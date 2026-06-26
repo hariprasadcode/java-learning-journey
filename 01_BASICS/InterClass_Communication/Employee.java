@@ -7,5 +7,6 @@ class Employee
   String email="klrahul01@gmail.com";
   double salary=200000.00d;
   String designation="Player";
- 
+
+  
 }

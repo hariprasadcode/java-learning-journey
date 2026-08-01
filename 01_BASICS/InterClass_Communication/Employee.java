@@ -1,6 +1,6 @@
 class Employee
 {
-  // Non static variables inside a class
+  // non static variable inside a class
   int id=101;
   String firstName="KL";
   String lastName="Rahul";

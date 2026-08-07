@@ -1,7 +1,7 @@
 package demo;
 
 class DefValueExample {
-	// non static variables
+	
 	int a;  //0
 	double b; //0.0
 	boolean c;//false
